@@ -54,6 +54,6 @@
  master
   },
   "devDependencies": {
-    "pkg": "^4.4.7"
+    "pkg": "^4.5.1"
   }
 }
