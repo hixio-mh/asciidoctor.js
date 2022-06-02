@@ -18,6 +18,11 @@
     "dirty-chai": "2.0.1",
 nyk-upgrade-39b93fc8f7ee1effe560fbe2451d37bb
     "libnpmpublish": "3.0.1",
+ snyk-fix-edbfb8dd8d3a504f7dc1c4ebfba8fc2e
+    "mocha": "8.3.0",
+    "sinon": "8.1.1",
+    "standard": "15.0.0"
+
     "mocha": "8.4.0",
 
 snyk-upgrade-ac07e08e73530e01183cc388f6f1be2a
@@ -34,5 +39,6 @@ snyk-upgrade-ac07e08e73530e01183cc388f6f1be2a
   "snyk": true,
   "dependencies": {
     "@snyk/protect": "latest"
+ master
   }
 }
