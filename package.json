@@ -34,11 +34,15 @@ snyk-upgrade-ac07e08e73530e01183cc388f6f1be2a
  master
 
     "sinon": "8.1.1",
+ snyk-fix-cdee5e8a7498cd60e8481ea05a74b5b2
+    "standard": "16.0.4"
+
     "standard": "14.3.4"
   },
   "snyk": true,
   "dependencies": {
     "@snyk/protect": "latest"
  master
+>master
   }
 }
