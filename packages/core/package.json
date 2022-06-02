@@ -71,6 +71,9 @@
     "unxhr": "1.1.0"
   },
   "devDependencies": {
+ snyk-upgrade-5a86512945c8f9d2a23efdb780a662ff
+    "@types/node": "^14.17.15",
+
 snyk-upgrade-393e0198380a4c85fe4e88207c0ce59b
     "@types/node": "^14.17.14",
 
@@ -109,6 +112,7 @@ snyk-upgrade-3c554dadadcdd5d4f687b6d6d5b69914
 
     "@types/node": "^14.17.18",
  master
+
 
 
 
