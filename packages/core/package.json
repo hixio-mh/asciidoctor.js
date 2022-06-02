@@ -68,10 +68,14 @@
   "homepage": "https://github.com/asciidoctor/asciidoctor.js",
   "dependencies": {
     "asciidoctor-opal-runtime": "1.0.0-alpha.2",
-    "unxhr": "1.0.4"
+    "unxhr": "1.1.0"
   },
   "devDependencies": {
-    "@types/node": "^14.0.11",
+snyk-upgrade-3c554dadadcdd5d4f687b6d6d5b69914
+    "@types/node": "^14.17.16",
+
+    "@types/node": "^14.17.18",
+ master
     "@types/nunjucks": "^3.1.3",
     "bestikk-download": "1.0.0",
     "bestikk-fs": "1.0.0",
@@ -87,16 +91,16 @@
     "eslint": "6.8.0",
     "handlebars": "^4.7.6",
     "http-server": "0.12.3",
-    "mocha": "8.1.0",
+    "mocha": "9.1.2",
     "mock-http-server": "^1.4.2",
     "module-alias": "2.2.2",
     "nunjucks": "^3.2.1",
     "opal-compiler": "2.0.0-alpha.2",
     "portfinder": "1.0.28",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "puppeteer": "5.2.1",
     "sinon": "8.1.1",
-    "standard": "14.3.4",
+    "standard": "16.0.4",
     "typescript": "^3.9.5"
   },
   "standard": {
