@@ -8,15 +8,41 @@
     "test": "mocha spec/*/*.spec.js",
     "lint": "npm run code:lint",
     "code:lint": "standard spec/**/*.js tasks/**/*.js",
-    "release": "node tasks/release.js"
+    "release": "node tasks/release.js",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "devDependencies": {
     "bestikk-log": "0.1.0",
-    "chai": "4.2.0",
+    "chai": "4.3.4",
     "dirty-chai": "2.0.1",
+nyk-upgrade-39b93fc8f7ee1effe560fbe2451d37bb
     "libnpmpublish": "3.0.1",
-    "mocha": "8.1.0",
+ snyk-fix-edbfb8dd8d3a504f7dc1c4ebfba8fc2e
+    "mocha": "8.3.0",
     "sinon": "8.1.1",
+    "standard": "15.0.0"
+
+    "mocha": "8.4.0",
+
+snyk-upgrade-ac07e08e73530e01183cc388f6f1be2a
+    "libnpmpublish": "3.0.2",
+    "mocha": "8.1.0",
+
+    "libnpmpublish": "3.0.1",
+    "mocha": "9.1.2",
+ master
+
+    "sinon": "8.1.1",
+ snyk-fix-cdee5e8a7498cd60e8481ea05a74b5b2
+    "standard": "16.0.4"
+
     "standard": "14.3.4"
+  },
+  "snyk": true,
+  "dependencies": {
+    "@snyk/protect": "latest"
+ master
+>master
   }
 }
