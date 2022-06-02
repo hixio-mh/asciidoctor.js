@@ -46,10 +46,27 @@
   },
   "homepage": "https://github.com/asciidoctor/asciidoctor.js",
   "dependencies": {
+snyk-upgrade-5746ea1836f295bf3b4a627e0c676a46
     "@asciidoctor/cli": "3.4.0",
+ snyk-upgrade-6fb75d59a32e843dcc8210268abf0dcc
+    "@asciidoctor/core": "2.2.6"
+
+    "@asciidoctor/core": "2.2.5"
+
+ snyk-upgrade-23d3b0978f87c912e204575a85e388c7
+    "@asciidoctor/cli": "3.5.0",
     "@asciidoctor/core": "2.2.0"
+
+    "@asciidoctor/cli": "3.4.0",
+ snyk-upgrade-41125842c485367c2db48cde15010761
+    "@asciidoctor/core": "2.2.4"
+
+    "@asciidoctor/core": "2.2.1"
+ master
+
+ master
   },
   "devDependencies": {
-    "pkg": "^4.4.7"
+    "pkg": "^4.5.1"
   }
 }
