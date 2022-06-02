@@ -102,7 +102,11 @@ snyk-upgrade-3c554dadadcdd5d4f687b6d6d5b69914
     "eslint": "6.8.0",
     "handlebars": "^4.7.6",
     "http-server": "0.12.3",
+snyk-upgrade-b614488fb2a694378fa00ef919b66de5
+    "mocha": "8.4.0",
+
     "mocha": "9.1.2",
+master
     "mock-http-server": "^1.4.2",
     "module-alias": "2.2.2",
     "nunjucks": "^3.2.1",
