@@ -71,27 +71,129 @@
     "unxhr": "1.1.0"
   },
   "devDependencies": {
+snyk-upgrade-f6072ce42029a0411dce518d86a199e1
+    "@types/node": "^14.18.0",
+
+ snyk-upgrade-20f789653d55ca42766cf43813685164
+    "@types/node": "^14.17.34",
+
+ snyk-upgrade-c3c296b2f1d563b7078c8ca8b2f26530
+    "@types/node": "^14.17.33",
+
+snyk-upgrade-f7399a480b7a30efff2e8879273e0bcb
+    "@types/node": "^14.17.32",
+
+ snyk-upgrade-b593420d697074fe6081dfe74744b587
+    "@types/node": "^14.17.29",
+
+ snyk-upgrade-bb0a54972e93f3e848eccdeefe7e02e8
+    "@types/node": "^14.17.27",
+
+ snyk-upgrade-1242b3711c364a0236058dc09b72db44
+    "@types/node": "^14.17.26",
+
+ snyk-upgrade-c387b92746e0974d7fbec393fbc5d078
+    "@types/node": "^14.17.21",
+
+snyk-upgrade-75a4ab8aedfa7d30276ad5238c5be5ac
+    "@types/node": "^14.17.20",
+
+snyk-upgrade-78a80528cb6de498bfa85ebc1a9c5ce6
+    "@types/node": "^14.17.19",
+
+ snyk-upgrade-41fd0f8fbcf5beea327891834ef1c125
+    "@types/node": "^14.17.17",
+
+ snyk-upgrade-5a86512945c8f9d2a23efdb780a662ff
+    "@types/node": "^14.17.15",
+
+snyk-upgrade-393e0198380a4c85fe4e88207c0ce59b
+    "@types/node": "^14.17.14",
+
+ snyk-upgrade-c74ab197dc83f811f4c6480489acb39b
+    "@types/node": "^14.17.13",
+
+ snyk-upgrade-28049d7e5ec15d591d7f3e6c8470c06c
+    "@types/node": "^14.17.11",
+
+synk-upgrade-96ead8bd8c0218062024010761162f5c
+    "@types/node": "^14.17.10",
+
+snyk-upgrade-aff8827b44bfbe32c3df1e3e384a62de
+    "@types/node": "^14.17.9",
+
+snyk-upgrade-5d474ee5b0f6421bedf5d5adfe9cb918
+    "@types/node": "^14.17.7",
+
+ snyk-upgrade-3a91728e1e063adf667956d4d5fe5440
+    "@types/node": "^14.17.6",
+
+snyk-upgrade-d173adacdb0a680ee6ed13c25fc68a82
+    "@types/node": "^14.17.5",
+
+ snyk-upgrade-bec9addbbfc10f0e8d33859cf2649d0d
+    "@types/node": "^14.17.4",
+
+ snyk-upgrade-3588dec0f0f83e1df7c1ee4b061acf27
+    "@types/node": "^14.17.12",
+
+snyk-upgrade-41982fc547a331c333ceb5ec78232028
+    "@types/node": "^14.17.3",
+
 snyk-upgrade-3c554dadadcdd5d4f687b6d6d5b69914
     "@types/node": "^14.17.16",
 
     "@types/node": "^14.17.18",
  master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     "@types/nunjucks": "^3.1.3",
     "bestikk-download": "1.0.0",
     "bestikk-fs": "1.0.0",
     "bestikk-log": "0.1.0",
     "bestikk-uglify": "3.0.0",
-    "chai": "4.2.0",
+    "chai": "4.3.4",
     "cross-env": "6.0.3",
     "dirty-chai": "2.0.1",
-    "documentation": "13.0.2",
+    "documentation": "13.2.2",
     "dot": "^1.1.3",
     "dtslint": "latest",
     "ejs": "^3.0.1",
-    "eslint": "6.8.0",
+    "eslint": "7.16.0",
     "handlebars": "^4.7.6",
+ snyk-fix-128e61f24999f148120d72538c45f5b7
     "http-server": "0.12.3",
+    "mocha": "8.3.0",
+
+snyk-fix-79133b49a466eff0ef852b20690a7d81
+    "http-server": "0.13.0",
+    "mocha": "8.1.0",
+
+    "http-server": "0.12.3",
+snyk-upgrade-b614488fb2a694378fa00ef919b66de5
+    "mocha": "8.4.0",
+
     "mocha": "9.1.2",
+master
+
+
     "mock-http-server": "^1.4.2",
     "module-alias": "2.2.2",
     "nunjucks": "^3.2.1",
@@ -100,7 +202,11 @@ snyk-upgrade-3c554dadadcdd5d4f687b6d6d5b69914
     "pug": "^3.0.1",
     "puppeteer": "5.2.1",
     "sinon": "8.1.1",
+ snyk-fix-128e61f24999f148120d72538c45f5b7
+ 'standard": "15.0.0",
+
     "standard": "16.0.4",
+ master
     "typescript": "^3.9.5"
   },
   "standard": {
