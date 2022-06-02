@@ -100,7 +100,7 @@ snyk-upgrade-3c554dadadcdd5d4f687b6d6d5b69914
     "pug": "^3.0.1",
     "puppeteer": "5.2.1",
     "sinon": "8.1.1",
-    "standard": "14.3.4",
+    "standard": "16.0.4",
     "typescript": "^3.9.5"
   },
   "standard": {
